@@ -1546,7 +1546,7 @@ export default function App() {
   const audioRef = useRef(null);
 
 useEffect(() => {
-  audioRef.current = new Audio("../public/music/asyouare.mp3");
+  audioRef.current = new Audio("/music/asyouare.mp3");
   audioRef.current.loop = true;
   audioRef.current.volume = 0.5;
 
