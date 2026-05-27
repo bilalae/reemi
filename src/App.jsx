@@ -215,13 +215,13 @@ function Hero() {
 // ─── GALLERY ──────────────────────────────────────────────────────────────────
 const galleryItems=[
   {img: "/photos/her1.JPG" , caption:"how beautiful our kids would be girl",compliment:"Elegante"},
-  {img: "../public/photos/her2.jpeg" , caption:"shortie nice and pretty u a full package",compliment:"Serene"},
-  {img: "../public/photos/her3.jpg" , caption:"got me feeling all kinds of stuff",compliment:"My favourite thing"},
-  {img: "../public/photos/her4.jpg" , caption:"you can have it all, all to yourself",compliment:"Pure gold"},
-  {img: "../public/photos/her5.jpg" , caption:"want to start family with you",compliment:"Everything"},
-  {img: "../public/photos/her6.jpg" , caption:"coming out of my body for you babygirl",compliment:"Breathtaking"},
-  {img: "../public/photos/her7.jpg" , caption:"fine shyt got the inner loverboy out of me n its been a long time",compliment:"My gem"},
-  {img: "../public/photos/her8.jpg" , caption:"i love dis girl so much",compliment:"Sexy"},
+  {img: "/photos/her2.jpeg" , caption:"shortie nice and pretty u a full package",compliment:"Serene"},
+  {img: "/photos/her3.jpg" , caption:"got me feeling all kinds of stuff",compliment:"My favourite thing"},
+  {img: "/photos/her4.JPG" , caption:"you can have it all, all to yourself",compliment:"Pure gold"},
+  {img: "/photos/her5.JPG" , caption:"want to start family with you",compliment:"Everything"},
+  {img: "/photos/her6.JPG" , caption:"coming out of my body for you babygirl",compliment:"Breathtaking"},
+  {img: "/photos/her7.jpg" , caption:"fine shyt got the inner loverboy out of me n its been a long time",compliment:"My gem"},
+  {img: "/photos/her8.jpg" , caption:"i love dis girl so much",compliment:"Sexy"},
 
 ];
 
